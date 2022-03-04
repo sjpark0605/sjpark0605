@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=sjpark0605)
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning ReactJS, C++, OS
